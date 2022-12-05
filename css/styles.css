@@ -55,6 +55,11 @@ ul {
   padding-right: 15px;
 }
 
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .header-body {
   display: flex;
   justify-content: space-between;
@@ -190,6 +195,10 @@ ul {
   margin-right: 30px;
 }
 
+.heading {
+  padding-top: 0;
+}
+
 .heading-titel {
   color: var(--featurs-title-color);
   font-size: 36px;
@@ -319,10 +328,6 @@ ul {
 
 /* Css for portfolio */
 
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
 .filters {
   display: flex;
   justify-content: center;
